@@ -10,7 +10,6 @@ namespace GameFinder.DI
 {
     public class RepositoryModule
     {
-
         private const string DATABASE_NAME = "gamestores";
 
         private const string CONNECTION_STRING = "<INSERT CONNECTION STRING HERE>";
